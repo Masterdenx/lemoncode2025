@@ -1,0 +1,1 @@
+Me encanta la bashmkdir -p foo/dummy foo/empty
